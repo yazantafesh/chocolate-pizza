@@ -1,0 +1,164 @@
+#logo{
+    width: 30%;
+    height: 42px;
+    position: absolute;
+    top: 4%;
+    left: 14.5%;
+}
+
+#logo p {
+    color: grey;
+    font-size: 1px ;
+}
+body{
+    margin: 2% 10%;
+}
+#icons{
+    position: absolute;
+    right: 10%;
+    top: 5%;
+}
+h1{
+    margin: 0;
+    font-family: 'Pacifico', cursive;
+}
+nav{
+    margin-bottom: 35px;
+}
+#logo p {
+    margin: 0;
+    font-size:small ;
+}
+#rss{
+    margin-left: 10px;
+}
+
+.img-hr{
+    background-image:url(/img/hr-img.png);
+    background-repeat: repeat;
+    height:20px;
+    border: 0;
+    margin: 0;
+}
+h2{
+    font-size: 42px;
+    margin: 50px 0 0 5px;
+}
+
+#posted{
+    margin: 0px 0 0 10px;
+    color: grey;
+    font-size: 15px;
+}
+
+#print{
+    width: 2%;
+    position: relative;
+    left: 95%;
+    bottom: 30px;
+}
+#print img{
+    float: left;
+}
+#print p {
+    position: relative;
+    left: 15px;
+    bottom: 15px;
+    color: grey;
+}
+
+#big-picture{
+    width: 100%;
+}
+
+.text{
+    text-indent: 3%;
+    color: grey;
+    font-size: large;
+}
+
+#list{
+    width: 100%;
+}
+
+#ing-1{
+    width: 20%;
+    position: relative;
+    bottom: 65px;
+    left: 330px;
+    line-height: 1.8;
+    font-size: 20px;
+    font-weight: 900;
+}
+#ing-2{
+    width: 20%;
+    position: relative;
+    bottom: 280px;
+    left: 850px;
+    line-height:1.8;
+    font-size: 20px;
+    font-weight: 900;
+}
+#profile{
+    height: 60px;
+}
+#profile img{
+    float: left;
+}
+
+#profile p {
+    width: 50%;
+    margin-left: 100px;
+    text-align: justify;
+}
+
+#profile a {
+    float: right;
+    position: relative;
+    bottom: 80px;
+    color: ivory;
+    text-align: center;
+    background-color: #bc7058;
+    padding: 15px;
+    width: 150px;
+    text-decoration: none;
+}
+a:hover{
+    opacity: 0.8;
+}
+#profile h3{
+    margin-left: 100px;
+    color: grey;
+}
+hr{
+    clear:both ;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+}
+
+form{
+    margin: -230px;
+    font-family: 'Indie Flower', cursive;
+    color: #d0af84;
+}
+
+#small-logo{
+    position: relative;
+    left: 50%;
+    bottom: 45%;
+}
+h2 , h3 {
+font-family: 'Bebas Neue', cursive;
+    
+}
+p{color: grey;}
+footer p{
+    color: lightgray;
+}
+input
+{
+    background: grey;
+}
